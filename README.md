@@ -4,7 +4,7 @@ AI/ML Engineer building scalable LLM systems and production-ready ML infrastruct
 
 ---
 
-## Focus Areas
+## 🎯 Focus Areas
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
@@ -14,10 +14,10 @@ AI/ML Engineer building scalable LLM systems and production-ready ML infrastruct
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,kubernetes,linux,postgres,git,github" height="28" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,kubernetes,linux,postgres,git,github" height="26" />
 </p>
 
 <p>
@@ -30,7 +30,7 @@ AI/ML Engineer building scalable LLM systems and production-ready ML infrastruct
 
 ---
 
-## Selected Work
+## 🚀 Selected Work
 
 ### ReflexionAI
 Multi-agent LLM copilot with structured reasoning, evaluation pipeline, and containerized deployment.
@@ -40,19 +40,20 @@ Experiment tracking, CI/CD automation, model versioning, and reproducible workfl
 
 ---
 
-## Currently Working On
+## 🔬 Currently Working On
 
-- Improving LLM evaluation frameworks  
-- Strengthening model deployment pipelines  
+- Strengthening LLM evaluation frameworks  
+- Improving deployment reliability  
 - Scaling RAG architectures  
 
 ---
 
-## Open Source Contributions
+## 🤝 Open Source Contributions
 
 <!-- Contributions will be listed here as they are made -->
 
 ---
+
 
 
 
